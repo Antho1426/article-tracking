@@ -40,7 +40,7 @@ following Terminal command at the root of the project:
 
 To deploy the `article-tracking` Python web app on the Heroku web server,
 please refer to the instructions in the `_ApproachToHostOnHeroku.rtfd` file
-situated in the `_Resources` folder.
+situated in the `_Resources` folder or feel free to contact me with questions.
 
 
 ### 2.3 Executing program
