@@ -16,9 +16,10 @@ Telegram messages on a weekly basis to inform the user about the availability of
 ## 1. Description
 `article-tracking` is a Python app running on the Heroku web server that
 makes use of the `selenium` Python package to scrape the web and check on a
-weekly basis if a certain online articles are available online and in the store. An update WhatsApp and Telegram message is sent every week to my phone
-(+41 79 884 18 17). For each article of interest specified by a specific URL,
-the message contains two pieces of information:
+weekly basis if a certain online articles are available online and in the store.
+An update WhatsApp and Telegram message is sent every week to my phone. For each
+article of interest specified by a specific URL, the message contains two pieces
+of information:
 - Its online availibility
 - Its availibility in stores
 
